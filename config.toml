@@ -1,0 +1,4 @@
+baseURL = "http://whitneyellen.com"
+languageCode = "en-us"
+title = "Whitney Ellen Dot Com"
+theme = "amperage"
